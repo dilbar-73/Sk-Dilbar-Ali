@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am a passionate Full Stack Developer specializin
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_GFG_LINK_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]([YOUR_PORTFOLIO_LINK_HERE](https://github.com/dilbar-73/My_Portfolio/blob/main/Git_Projects/Portfolio/home.html))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/dilbar-73/My_Portfolio.git))
 
 > **Note:** Check out my GeeksforGeeks profile above to see my problem-solving skills and Data Structures & Algorithms progress!
 
